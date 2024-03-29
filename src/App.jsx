@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Magzhan Khorshat",
-  title: "Python Developer",
+  title: "PythonN Developer",
   email: "magzhan.khorshat@bk.ru",
   gitHub: "ghostmaga",
   instagram: "",
