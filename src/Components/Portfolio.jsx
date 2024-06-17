@@ -31,23 +31,22 @@ const imageAltText = "book shelves";
  */
 const projectList = [
   {
-    title: "Future Project :D",
+    title: "Studyrooms",
     description:
-      "Website Aggregator",
-    url: "",
-  },
-  /*{
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Django project based on tutorial by https://github.com/divanov11. Will be updated with new features and improvements based on my future knowledge.",
+    url: "https://github.com/ghostmaga/studyrooms",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "JUU",
+    description: "Commercial project. ERP for car wash system. Still in development (Django).",
+    url: "",
   },
+  {
+    title: "Project Management App",
+    description: "FlutterFlow project with Supabase backend + BuildShip workflow",
+    url: "",
+  },
+  /*
   {
     title: "GitHub Codespaces and github.dev",
     description:

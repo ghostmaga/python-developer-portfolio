@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Python",
   "Django",
-  "PostgreSQL",
+  "PostgreSQL (Examples on GitHub)",
   "Git",
   "HTML",
   "CSS",
@@ -53,7 +53,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "In addition to studying and programming, I am interested in calisthenics, chess, computer games, bouldering, cooking, watching movies/anime";
+  "In addition to studying and programming, I am interested in calisthenics, chess, computer games, bouldering, cooking, watching movies and reading some books";
 
 const About = () => {
   return (
