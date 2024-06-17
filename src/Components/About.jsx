@@ -32,11 +32,19 @@ const description =
  */
 const skillsList = [
   "Python",
-  "React",
   "Django",
   "PostgreSQL",
   "Git",
-  "C++",
+  "HTML",
+  "CSS",
+  "Docker",
+  "JavaScript",
+  "Django REST Framework",
+  "Unit Testing",
+  "ORM",
+  "CI/CD",
+  "nginx",
+  "uWSGI",
 ];
 
 /**
